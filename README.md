@@ -1,5 +1,8 @@
-# AutoGod
+# AutoGod 自动化助手
+
 AutoGod-自动化助手-安卓自动化测试平台，官方发布主页
+
+免ROOT、全分辨率、节点、无障碍、自动化工具
 
 
 
@@ -53,13 +56,17 @@ https://gitee.com/kodesh/auto-god/releases
 
 ## 官网文档
 
-http://aigamepro.work/ 
+国外地址:[https://auto-god.netlify.app/](https://auto-god.netlify.app/)
 
-http://auto-god.top 
+国内地址:[https://auto-god.top/](https://auto-god.top/)
 
-https://auto-god.netlify.app 
 
-https://autogod-doc.vercel.app/
+
+## 管理后台
+
+国外网址:[https://auto-god-dev.netlify.app/](https://auto-god-dev.netlify.app/)
+
+国内网址:[https://dev.auto-god.top/](https://dev.auto-god.top/)
 
 
 
@@ -73,6 +80,8 @@ https://chatglm.cn/main/gdetail/692071b589271802216fecd0?
 
 应用商店下载ima客户端（直接搜索ima即可），去知识库大厅搜索AutoGod即可出现。
 
+https://ima.qq.com/wiki/?shareId=c6620d25c102dac965bb7c701ab0344cba813557aa5730657beea506e5847c69
+
 
 
 ## Yolo训练-开箱即用
@@ -81,11 +90,9 @@ https://gitee.com/kodesh-talent/ultralytics-8.3.228
 
 
 
+## IDEA插件下载
 
-
-
-
-
+https://gitee.com/kodesh/auto-god-idea-plugin/releases
 
 
 
